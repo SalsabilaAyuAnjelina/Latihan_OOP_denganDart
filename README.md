@@ -1,3 +1,3 @@
 # Latihan_OOP_denganDart
 
-![Uploading Screenshot 2023-10-01 221016.png…]()
+![alt text](https://github.com/SalsabilaAyuAnjelina/Latihan_OOP_denganDart/blob/main/SS%20pengerjaan.png?raw=true)
